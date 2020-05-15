@@ -22,6 +22,12 @@ namespace test.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Salles Web MVC My first Project in .NETCore";
+            ViewData["developer"] = "Abnner Sales";
+            return View();
+        }
 
         public IActionResult Privacy()
         {

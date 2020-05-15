@@ -35,3 +35,4 @@
 /home/invent/Área de Trabalho/test/obj/Debug/netcoreapp3.1/test.pdb
 /home/invent/Área de Trabalho/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
 /home/invent/Área de Trabalho/test/obj/Debug/netcoreapp3.1/test.csproj.CopyComplete
+/home/invent/Área de Trabalho/test/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs

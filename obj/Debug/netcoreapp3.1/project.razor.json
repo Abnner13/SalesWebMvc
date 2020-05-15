@@ -20531,6 +20531,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/invent/Área de Trabalho/test/Views/Home/About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/invent/Área de Trabalho/test/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
